@@ -1,0 +1,13 @@
+*~
+.*.swp
+.DS_Store
+.checkstyle
+.classpath
+.netrwhist
+.project
+.settings/
+apollo-overrides
+build
+eclipse-bin/
+eclipse-build/
+*.class
